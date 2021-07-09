@@ -6,7 +6,10 @@ namespace HackerRank_30DaysOfCode
     {
         static void Main(string[] args)
         {
-            HelloWorld.PrintMessage();
+            //HelloWorld.PrintMessage();            
+            
+            Day1_DataTypes.Solution();
+            
         }
     }
 }

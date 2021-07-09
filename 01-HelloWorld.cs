@@ -6,7 +6,7 @@ namespace HackerRank_30DaysOfCode
 {
   public class HelloWorld
     {
-        public void PrintMessage() 
+        public static void PrintMessage() 
         {
             string inputString;
             inputString = Console.ReadLine();
