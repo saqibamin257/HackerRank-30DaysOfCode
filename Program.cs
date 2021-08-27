@@ -7,9 +7,14 @@ namespace HackerRank_30DaysOfCode
         static void Main(string[] args)
         {
             //HelloWorld.PrintMessage();            
-            
-            Day1_DataTypes.Solution();
-            
+            #region Day-1
+            //Day1_DataTypes.Solution();
+            #endregion
+
+            #region Day-2
+            Day2_Operators_Solution.Input();
+            #endregion
+
         }
     }
 }
