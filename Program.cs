@@ -12,9 +12,12 @@ namespace HackerRank_30DaysOfCode
             #endregion
 
             #region Day-2
-            Day2_Operators_Solution.Input();
+            //Day2_Operators_Solution.Input();
             #endregion
 
+            #region Day-3
+            Day3_ConditionalStatements.Solution();
+            #endregion
         }
     }
 }
